@@ -1,0 +1,10 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/chitti123/VSCode/C_Module/Functions_Cls/StringCls'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _reverse, symObjAddr: 0x0, symBinAddr: 0x100003BA8, symSize: 0x98 }
+  - { offsetInCU: 0x41, offset: 0x41, size: 0x8, addend: 0x0, symName: _reverse, symObjAddr: 0x0, symBinAddr: 0x100003BA8, symSize: 0x98 }
+  - { offsetInCU: 0xA2, offset: 0xA2, size: 0x8, addend: 0x0, symName: _WordReverse, symObjAddr: 0x98, symBinAddr: 0x100003C40, symSize: 0x1E4 }
+  - { offsetInCU: 0x113, offset: 0x113, size: 0x8, addend: 0x0, symName: _WordOrderReverse, symObjAddr: 0x27C, symBinAddr: 0x100003E24, symSize: 0x5C }
+  - { offsetInCU: 0x148, offset: 0x148, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x2D8, symBinAddr: 0x100003E80, symSize: 0x88 }
+...

@@ -1,0 +1,8 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/chitti123/VSCode/C_Module/Functions_Cls/StringsIntroCls'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _shuffle, symObjAddr: 0x0, symBinAddr: 0x100003D74, symSize: 0x138 }
+  - { offsetInCU: 0x41, offset: 0x41, size: 0x8, addend: 0x0, symName: _shuffle, symObjAddr: 0x0, symBinAddr: 0x100003D74, symSize: 0x138 }
+  - { offsetInCU: 0xBE, offset: 0xBE, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x138, symBinAddr: 0x100003EAC, symSize: 0xB4 }
+...
